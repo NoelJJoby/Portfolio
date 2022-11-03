@@ -1,0 +1,17 @@
+* {
+	margin: auto;
+	padding: auto;
+
+}
+
+.Links {
+	display: flex;
+	flex-direction: row;
+	justify-content: space;
+	align-items: center;
+
+	margin-top: 2%;
+
+	font-size: xx-large;
+
+}
